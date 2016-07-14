@@ -1,6 +1,6 @@
 <?php
 /**
- * Environment specific configuration
+ * Environment-specific configuration
  *
  * PHP version 5.5
  *
